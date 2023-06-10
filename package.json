@@ -1,0 +1,19 @@
+{
+  "name": "consolebro",
+  "version": "1.0.0",
+  "description": "npm package to write console messages easily and quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GioKatamadze/consolebro.git"
+  },
+  "author": "Gio Katamadze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GioKatamadze/consolebro/issues"
+  },
+  "homepage": "https://github.com/GioKatamadze/consolebro#readme"
+}
